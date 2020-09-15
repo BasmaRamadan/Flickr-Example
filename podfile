@@ -1,0 +1,8 @@
+use_frameworks!
+target 'Flickr' do
+    pod 'Alamofire', '~> 4.7'
+    pod 'SwiftyJSON', '~> 4.0'
+    pod 'ReachabilitySwift'
+    pod 'SDWebImage/WebP'
+
+end
